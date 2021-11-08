@@ -1,0 +1,29 @@
+body {
+  margin: 0px;
+  background: rgb(207, 194, 194);
+  text-transform: capitalize;
+}
+input {
+  display: block;
+}
+img {
+  width: 100vh;
+  height: 300px;
+  border-radius: 50%;
+}
+.foto-container {
+  text-align: center;
+}
+.busca {
+  display: block;
+}
+.formulario {
+  display: block;
+  text-align: center;
+}
+
+.formulario div {
+  display: grid;
+  width: 50%;
+  margin-left: 240px;
+}
